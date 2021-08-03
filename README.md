@@ -9,13 +9,13 @@
 
 ## Dropout Infomation
 
-### The State has Highest Percentages of dropout of **Primary schools**: _Mizoram_
+### The State has Highest Percentages of dropout in **Primary schools**: _Mizoram_
 
-### The State has Highest Percentages of dropout of **Upper Primary schools**:_Nagaland_
+### The State has Highest Percentages of dropout in **Upper Primary schools**:_Nagaland_
 
-### The State has Highest Percentages of dropout of **Secondary schools**:_Odisha_
+### The State has Highest Percentages of dropout in **Secondary schools**:_Odisha_
 
-### The State has Highest Percentages of dropout of **Higher Secondary school**:_Daman & Diu_
+### The State has Highest Percentages of dropout in **Higher Secondary school**:_Daman & Diu_
 
 ![Primary school](snap/primary.png)
 
